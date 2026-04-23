@@ -1,0 +1,6 @@
+{
+  "name": "IP Registry",
+  "description": "Intellectual Property Registry on Stellar Soroban to track and verify ownership of ideas using SHA-256 hashing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
